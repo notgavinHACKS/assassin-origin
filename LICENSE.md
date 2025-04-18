@@ -11,4 +11,4 @@ The Software is provided "as is", without warranty of any kind, express or impli
 
 ## Notes
 
-The file _data/assassin/powers/backstab.json_, while covered by the above license, is a derivative of the file which is credited to the person contactable as _@eggohito_ on [Discord](https://discord.com/) which is found in [this Discord message](https://discord.com/channels/734127708488859831/825449766384828476/910427207095181324), which is located within the Origins Discord server, found at [this URL link](https://discord.gg/VdGgwXwWNa).
+The file _data/assassin/powers/backstab.json_, while covered by the above license, is a derivative of the file which is credited to the person contactable as _@eggohito_ on [Discord](https://discord.com/), which is found in [this Discord message](https://discord.com/channels/734127708488859831/825449766384828476/910427207095181324), which is located within the Origins Discord server, found at [this URL link](https://discord.gg/VdGgwXwWNa).
