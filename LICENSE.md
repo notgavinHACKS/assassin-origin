@@ -11,8 +11,8 @@ The Software is provided "as is", without warranty of any kind, express or impli
 
 A list of things considered Evil by the authors, includes but is not limited to:
 - any of the Software being used by machine learning programs, including but not limited to GitHub CoPilot, ChatGPT, and Deepseek.
-- any of the Software being used to give an unfair advantage to the person in use of the Software, in the environment of a multiplayer instance of the video game Minecraft, owned by Mojang AB, a subsidiary of Microsoft Corporation (NASDAQ: MSFT).
-- any of the Software being used with malicious intent in order to worsen the experience of others, in the environment of a multiplayer instance of the video game Minecraft, owned by Mojang AB, a subsidiary of Microsoft Corporation (NASDAQ: MSFT).
+- any of the Software being used to give an unfair advantage to the person in use of the Software, in the environment of a multiplayer instance of the video game Minecraft, owned by Mojang AB, a subsidiary of Microsoft Corporation (NASDAQ: MSFT), hereinafter referred to as "Minecraft".
+- any of the Software being used with malicious intent in order to worsen the experience of others, in Minecraft.
 - any of the Software being used for the production or promotion of hate speech against a minority group, including but not limited to: people of colour, women, transgender individuals, homosexual individuals, bisexual individuals, any other LGBTQ+ individuals, disabled individuals, and plural individuals.
 - any of the Software being used by law enforcement, carceral institutions, immigration enforcement entities, military entities or military contractors. This also applies to any individuals employed by those entities.
 
