@@ -1,0 +1,27 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		"type": "origins:execute_command",
+		"command": "function assassin:chorus"
+	},
+	"condition": {
+		"type": "origins:equipped_item",
+		"equipment_slot": "offhand",
+		"item_condition": {
+			"type": "origins:ingredient",
+			"ingredient": {
+				"item": "minecraft:chorus_fruit"
+			}
+		}
+	},
+	"key": {
+		"key": "key.origins.primary_active"
+	},
+	"hud_render": {
+		"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png", 
+		"bar_index": 12
+	},
+	"cooldown": 160,
+	"name": "Magical Smoke",
+	"description": "Add a strange purple fruit into the mix to teleport randomly."
+}

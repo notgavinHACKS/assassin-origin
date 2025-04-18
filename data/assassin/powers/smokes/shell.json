@@ -1,0 +1,27 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		"type": "origins:execute_command",
+		"command": "function assassin:shell"
+	},
+	"condition": {
+		"type": "origins:equipped_item",
+		"equipment_slot": "offhand",
+		"item_condition": {
+			"type": "origins:ingredient",
+			"ingredient": {
+				"item": "minecraft:scute"
+			}
+		}
+	},
+	"key": {
+		"key": "key.origins.primary_active"
+	},
+	"hud_render": {
+		"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+		"bar_index": 22
+	},
+	"cooldown": 500,
+	"name": "Shielded Smoke",
+	"description": "Scoot some scute into your smoke to bolster everyone's defenses, at the cost of being less agile."
+}

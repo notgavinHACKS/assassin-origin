@@ -1,0 +1,27 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		"type": "origins:execute_command",
+		"command": "function assassin:blindness"
+	},
+	"condition": {
+		"type": "origins:equipped_item",
+		"equipment_slot": "offhand",
+		"item_condition": {
+			"type": "origins:ingredient",
+			"ingredient": {
+				"item": "minecraft:sand"
+			}
+		}
+	},
+	"key": {
+		"key": "key.origins.primary_active"
+	},
+	"hud_render": {
+		"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+		"bar_index": 15
+	},
+	"cooldown": 240,
+	"name": "\"OH MY GOD MY EYES\"",
+	"description": "Add some sand to the smoke to produce a blinding mist."
+}

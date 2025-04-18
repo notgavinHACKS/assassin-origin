@@ -1,0 +1,27 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		"type": "origins:execute_command",
+		"command": "function assassin:poison"
+	},
+	"condition": {
+		"type": "origins:equipped_item",
+		"equipment_slot": "offhand",
+		"item_condition": {
+			"type": "origins:ingredient",
+			"ingredient": {
+				"item": "minecraft:spider_eye"
+			}
+		}
+	},
+	"key": {
+		"key": "key.origins.primary_active"
+	},
+	"hud_render": {
+		"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+		"bar_index": 11
+	},
+	"cooldown": 140,
+	"name": "Poison Gas",
+	"description": "Add a spider eye into the smoke and produce poison gas."
+}

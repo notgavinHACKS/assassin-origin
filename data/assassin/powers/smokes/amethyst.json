@@ -1,0 +1,71 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		"type": "origins:choice",
+		"actions": [
+			{
+				"element": {
+					"type": "origins:execute_command",
+					"command": "function assassin:xp/2"
+				},
+				"weight": 20
+			},
+			{
+				"element": {
+					"type": "origins:execute_command",
+					"command": "function assassin:xp/3"
+				},
+				"weight": 15
+			},
+			{
+				"element": {
+					"type": "origins:execute_command",
+					"command": "function assassin:xp/4"
+				},
+				"weight": 8
+			},
+			{
+				"element": {
+					"type": "origins:execute_command",
+					"command": "function assassin:xp/5"
+				},
+				"weight": 4
+			},
+			{
+				"element": {
+					"type": "origins:execute_command",
+					"command": "function assassin:xp/6"
+				},
+				"weight": 2
+			},
+			{
+				"element": {
+					"type": "origins:execute_command",
+					"command": "function assassin:xp/7"
+				},
+				"weight": 1
+			}
+		]
+	},
+	"condition": {
+		"type": "origins:equipped_item",
+		"equipment_slot": "offhand",
+		"item_condition": {
+			"type": "origins:ingredient",
+			"ingredient": {
+				"item": "minecraft:amethyst_shard"
+			}
+		}
+	},
+	"key": {
+		"key": "key.origins.primary_active",
+		"continuous": true
+	},
+	"hud_render": {
+		"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+		"bar_index": 7
+	},
+	"cooldown": 5,
+	"name": "Extractive Implosion",
+	"description": "A minor implosion occurs when adding purple shards into your smoke."
+}

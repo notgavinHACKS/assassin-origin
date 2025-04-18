@@ -1,0 +1,21 @@
+{
+	"type": "origins:invisibility",
+	"render_armor": false,
+	"render_outline": false,
+	"condition": {
+		"type": "origins:and",
+		"conditions": [
+			{
+				"type": "origins:resource",
+				"resource": "*:sneak/cooldown",
+				"comparison": "==",
+				"compare_to": 0
+			},
+			{
+				"type": "origins:sneaking"
+			}
+		]
+	},
+	"name": "Sneaky",
+	"description": "You have mastered the art of sneaking, becoming virtually undetectable. Mobs are less likely to notice you, and players even less so. However, the effect wears off for a second if you get hit, or you hit."
+}

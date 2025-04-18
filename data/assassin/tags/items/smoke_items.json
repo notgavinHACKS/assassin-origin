@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:amethyst_shard",
+		"minecraft:blaze_powder",
+		"minecraft:chorus_fruit",
+		"minecraft:ender_pearl",
+		"minecraft:glowstone_dust",
+		"minecraft:sand",
+		"minecraft:scute",
+		"minecraft:spider_eye",
+		"minecraft:water_bucket"
+	]
+}
