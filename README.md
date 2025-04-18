@@ -8,6 +8,7 @@ The Assassin is generally a stealth origin, though it has various powers that ma
 
 ### Smokes
 The Assassin is able to use multiple smokes, with varying effects, in order to achieve its goals. Where an item is needed, it is shown in (Brackets), and can be placed in the offhand to be added to the smoke, unless otherwise specified.
+
 A comprehensive list is as follows:
 - Base (No Item) this will create a cloud of smoke around the Assassin, useful for quick cover.
 - Poison (Spider Eye) will create a deadly cloud, causing nearby entities to become infected with a poison.
@@ -26,6 +27,7 @@ A comprehensive list is as follows:
 ### Sneaky Capabilities
 By nature of the occupation, the Assassin has learnt to become very sneaky, and virtually undetectable the majority of the time.
 When sneaking, the Assassin becomes completely invisble. However when hit by another entity, or when hitting another entity, they become visible for a second.
+
 Due to sneaking around so often, the Assassin also learnt to be quick about it.
 
 ### Miscellaneous
