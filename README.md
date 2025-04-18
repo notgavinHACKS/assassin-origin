@@ -1,5 +1,5 @@
 # The Assassin Origin
-The Assassin origin, created for the [Origins Minecraft Mod](https://modrinth.com/mod/origins), which is a required dependency.
+The Assassin origin is created for the [Origins Minecraft Mod](https://modrinth.com/mod/origins), which is a required dependency. It currently has support for version 1.10.0 of the Origins Mod (which is the version availble on **Minecraft 1.20 and 1.20.1**) though it may work on others.
 [Pehkui](https://modrinth.com/mod/pehkui) must be added in order for Sneaky powers to work to the intended extent, however the origin _can_ function without Pehkui.
 Downloads can be found on the [Releases page of the Github Repo](https://github.com/imaradio/assassin-origin/releases).
 
