@@ -1,6 +1,6 @@
 # The Assassin Origin
-The Assassin origin is created for the [Origins Minecraft Mod](https://modrinth.com/mod/origins), which is a required dependency. It currently has support for version 1.10.0 of the Origins Mod (which is the version availble on **Minecraft 1.20 and 1.20.1**) though it may work on others.
-[Pehkui](https://modrinth.com/mod/pehkui) must be added in order for Sneaky powers to work to the intended extent, however the origin _can_ function without Pehkui.
+The Assassin origin is created for the [Origins Minecraft Mod](https://modrinth.com/mod/origins), which is a required dependency. It currently has support for version 1.10.0 of the Origins Mod (which is the version available on **Minecraft 1.20** and **1.20.1**) though it may work on others.
+[Pehkui](https://modrinth.com/mod/pehkui) is an optional (though recommended) dependency, it gives some extra functionality to the Assassin's Sneaky Capabilities.
 Downloads can be found on the [Releases page of the Github Repo](https://github.com/imaradio/assassin-origin/releases).
 
 ## Overview
@@ -17,8 +17,8 @@ A comprehensive list is as follows:
 - Extractive (Amethyst) will blow apart the crystals placed inside the smoke, extracting XP.
 - Waypoint (Ender Pearl) will Set, Goto, or Discard a waypoint.
 	- Set: when held in the mainhand, Primary will Set the waypoint.
-  - Goto: when held in the offhand, Primary will Goto the waypoint.
-  - Discard: when held in the offhand, Save Toolbar will Discard the waypoint.
+	- Goto: when held in the offhand, Primary will Goto the waypoint.
+	- Discard: when held in the offhand, Save Toolbar will Discard the waypoint.
 - Shell (Scute) will give the Assassin and those around them great defensive capabilities, at the cost of very little movement.
 - Glow (Glowstone Dust) will light up those around the Assassin, making them much more noticeable targets.
 - Blaze (Blaze Powder) will set on fire the area around the Assassin, along with those in the way.
